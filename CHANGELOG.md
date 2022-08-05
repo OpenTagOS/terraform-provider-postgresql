@@ -1,4 +1,11 @@
-## Unreleased
+## Fork
+
+## 0.0.1 (Aug 05, 2022)
+
+FEATURES:
+* Merged https://github.com/cyrilgdn/terraform-provider-postgresql/pull/211
+
+## Mainline included
 
 ## 1.16.0 (May 8, 2022)
 
