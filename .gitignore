@@ -6,3 +6,4 @@
 tests/docker-compose.*.yml
 terraform-provider-postgresql
 howto.md
+dist/
